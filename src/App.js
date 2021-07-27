@@ -1,24 +1,34 @@
-import logo from './logo.svg';
+import { BrowserRouter as Router, Route, Switch} from 'react-router-dom'
+
 import './App.css';
+import NavBar from './components/NavBar';
+import Home from './components/Home'
+import WordOfTheDay from './components/WordOfTheDay';
+import WordSearch from './components/WordSearch';
+import SavedWords from './components/SavedWords';
+import WordContainer from './containers/WordContainer';
 
 function App() {
   return (
+    <Router>
+
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    < img src='https://dictionaryapi.com/images/MWLogo_120x120_2x.png' alt="logo" />
+
+      <NavBar/>
+
+        <Switch>
+          <Route exact path='/' component={Home} />
+          {/* <Route exact path='/wod' component={WordOfTheDay} /> */}
+          <Route exact path='/wordsearch' component={WordSearch} />
+          <Route exact path='/savedwords' component={SavedWords} />
+        </Switch>
+
+        
+      
     </div>
+
+    </Router>
   );
 }
 
