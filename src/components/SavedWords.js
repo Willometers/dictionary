@@ -1,20 +1,19 @@
 import { Component } from "react";
-import WordContainer from "../containers/WordContainer";
+// import WordContainer from "../containers/WordContainer";
 
 class SavedWords extends Component {
 
     render() {
+
         return(
             <div>
-                <h1>Saved Words</h1>
+                <h2>Saved Words:</h2>
 
-                <WordContainer />
+                {/* <WordContainer /> */}
                 
-
             </div>
         )
     }
-
 
 }
 

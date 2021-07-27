@@ -1,14 +1,14 @@
 import { BrowserRouter as Router, Route, Switch} from 'react-router-dom'
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import NavBar from './components/NavBar';
 import Home from './components/Home'
-import WordOfTheDay from './components/WordOfTheDay';
+// import WordOfTheDay from './components/WordOfTheDay';
 import WordSearch from './components/WordSearch';
 import SavedWords from './components/SavedWords';
-import WordContainer from './containers/WordContainer';
 
 function App() {
+  
   return (
     <Router>
 
