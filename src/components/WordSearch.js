@@ -12,26 +12,32 @@ class WordSearch extends Component {
         allWords: [],
         input: '',
         savedWords: [],
-      }
+    }
     
-      fetchWords = () => {
+    fetchWords = () => {
 
         if (this.state.allWords !== undefined) {
-        let input = this.state.input
-        fetch(URL+`${input}`+key)
-        .then(res => res.json())
-        .then(words => this.setState({allWords: words}))
+            let input = this.state.input
+            fetch(URL+`${input}`+key)
+            .then(res => res.json())
+            .then(words => this.setState({allWords: words}))
         }
 
         else {
-        fetch(URL+`undefined`+key)
-        .then(res => res.json())
-        .then(words => this.setState({allWords: words}))
+            fetch(URL+`undefined`+key)
+            .then(res => res.json())
+            .then(words => this.setState({allWords: words}))
         }
     }
 
+    handleSave = (word) => {
+        this.setState({
+            savedWords: [...this.state.savedWords, word]
+        })
+    }
+
     render() {
-        console.log("woSe", this.state)
+        console.log("SavedWords", this.state.savedWords)
         return(
 
             <div>
@@ -54,14 +60,8 @@ class WordSearch extends Component {
                     type="text"
                     />
                 </Form>
-                
-                <div className="word-collection">
-                    {this.state.allWords.map(word => {
-                        return(
-                        < Word word={word} />
-                        )
-                    })}
-                </div>
+
+                <Word words={this.state.allWords} handleSave={this.handleSave}/>
 
             </div>
         )

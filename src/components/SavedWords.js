@@ -1,7 +1,15 @@
 import { Component } from "react";
-// import WordContainer from "../containers/WordContainer";
+// import Word from "../components/Word";
 
 class SavedWords extends Component {
+
+    state = {
+        savedWords: []
+    }
+
+    // handleSave = (word) => {
+    //     console.log('saved', word)
+    // }
 
     render() {
 
@@ -9,7 +17,7 @@ class SavedWords extends Component {
             <div>
                 <h2>Saved Words:</h2>
 
-                {/* <WordContainer /> */}
+                {/* <Word words={this.state.savedWords} handleSave={this.handleSave}/> */}
                 
             </div>
         )
