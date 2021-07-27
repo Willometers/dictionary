@@ -3,9 +3,9 @@ import { Component } from "react";
 
 class SavedWords extends Component {
 
-    state = {
-        savedWords: []
-    }
+    // state = {
+    //     savedWords: []
+    // }
 
     // handleSave = (word) => {
     //     console.log('saved', word)
@@ -17,7 +17,10 @@ class SavedWords extends Component {
             <div>
                 <h2>Saved Words:</h2>
 
-                {/* <Word words={this.state.savedWords} handleSave={this.handleSave}/> */}
+                {/* <Word 
+                    words={this.state.savedWords} 
+                    handleSave={this.handleSave}
+                /> */}
                 
             </div>
         )

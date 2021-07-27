@@ -16,15 +16,6 @@ render() {
                 color: 'white'
         }}>Home</NavLink>
 
-        {/* <NavLink
-            to='/wod'
-            exact
-            style={{
-                padding: '5px',
-                background: 'red',
-                color: 'white'
-        }}>Word of the Day</NavLink> */}
-
         <NavLink
             to='/wordsearch'
             exact

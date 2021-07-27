@@ -34,5 +34,4 @@ props.words.map(word => {
 })
 )}
 
-
 export default Word

@@ -15,19 +15,10 @@ class WordSearch extends Component {
     }
     
     fetchWords = () => {
-
-        if (this.state.allWords !== undefined) {
             let input = this.state.input
             fetch(URL+`${input}`+key)
             .then(res => res.json())
             .then(words => this.setState({allWords: words}))
-        }
-
-        else {
-            fetch(URL+`undefined`+key)
-            .then(res => res.json())
-            .then(words => this.setState({allWords: words}))
-        }
     }
 
     handleSave = (word) => {
@@ -37,7 +28,7 @@ class WordSearch extends Component {
     }
 
     render() {
-        console.log("SavedWords", this.state.savedWords)
+        // console.log('saved words', this.state.savedWords)
         return(
 
             <div>
@@ -52,6 +43,7 @@ class WordSearch extends Component {
                     }}
                     onSubmit={(e) => {
                         e.preventDefault()
+                        e.target.reset()
                         this.fetchWords()}}
                     >
                     <Form.Control 
@@ -64,6 +56,7 @@ class WordSearch extends Component {
                 <Word words={this.state.allWords} handleSave={this.handleSave}/>
 
             </div>
+            
         )
     }
 }
