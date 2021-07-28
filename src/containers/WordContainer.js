@@ -35,9 +35,7 @@ handleDelete = (newWord) => {
 }
 
 render() {
-    // console.log('saved words', this.state.savedWords)
     return(
-
         <div>
             <h2>Word Search:</h2>
             <Form onChange={(e) => {
@@ -50,37 +48,28 @@ render() {
                     e.preventDefault()
                     e.target.reset()
                     console.log('submitted')
-                    this.fetchWords()}}
-                >
+                    this.fetchWords()}}>
                 <Form.Control 
                 size='lg' 
                 placeholder="Search" 
                 type="text"
                 />
             </Form>
-
-             
             <div className="row">
-
             <div className="col-8">
               <WordSearch
                 allWords={this.state.allWords} 
                 callBack={this.handleSave}
               />
             </div>
-
             <div className="col-4">
               <SavedWords 
                 savedWords={this.state.savedWords} 
                 callBack={this.handleDelete}
               />
             </div>
-
           </div>
-              
-
         </div>
-        
       )
     }
 }
