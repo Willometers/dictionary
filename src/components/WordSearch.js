@@ -3,7 +3,7 @@ import Word from "./Word";
 
 const WordSearch = (props) => {
 
-    // console.log('WoSear', props)
+    console.log('WoSear', props)
 
         return(
 

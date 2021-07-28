@@ -22,5 +22,4 @@ const Word = (props) => {
     )
 }
 
-
 export default Word

@@ -3,7 +3,7 @@ import Word from "./Word";
 
 const SavedWords = (props) => {
 
-    // console.log('SavWor', props.savedWords)
+    console.log('SavWor', props.savedWords)
     
         return(
     
