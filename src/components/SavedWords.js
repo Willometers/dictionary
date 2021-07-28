@@ -3,7 +3,7 @@ import Word from "./Word";
 
 const SavedWords = (props) => {
 
-    console.log('SavWor', props.savedWords)
+    // console.log('SavWor', props.savedWords)
     
         return(
     
@@ -14,7 +14,9 @@ const SavedWords = (props) => {
             {props.savedWords.map(word => {
                 return (
                 <div>
-                < Word word={word} />
+                < Word 
+                    word={word}
+                    callBack={props.callBack} />
                 </div>
                 )})
             }

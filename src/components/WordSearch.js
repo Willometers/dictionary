@@ -3,18 +3,20 @@ import Word from "./Word";
 
 const WordSearch = (props) => {
 
-console.log('WoSear', props)
+    // console.log('WoSear', props)
 
         return(
 
             <div>
 
-            <h2>Search Resutls:</h2>
+            <h2>Search Results:</h2>
 
             {props.allWords.map(word => {
                 return (
                 <div>
-                < Word word={word} />
+                < Word 
+                    word={word}
+                    callBack={props.callBack} />
                 </div>
                 )})
             }

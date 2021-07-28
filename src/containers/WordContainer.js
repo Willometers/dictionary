@@ -21,14 +21,17 @@ fetchWords = () => {
         .then(words => this.setState({allWords: words}))
 }
 
-handleSave = (word) => {
-    this.setState({
-        savedWords: [...this.state.savedWords, word]
-    })
+handleSave = (newWord) => {
+  console.log(this.state.savedWords)
+  if (!this.state.savedWords.find(word => word === newWord))
+      this.setState({
+        savedWords: [...this.state.savedWords, newWord] })
 }
 
-handleDelete = () => {
-  console.log('deleted')
+handleDelete = (newWord) => {
+  this.setState({
+    savedWords: this.state.savedWords.filter(word => word !== newWord)
+  })
 }
 
 render() {
@@ -62,14 +65,14 @@ render() {
             <div className="col-8">
               <WordSearch
                 allWords={this.state.allWords} 
-                // callBack={this.handleSave}
+                callBack={this.handleSave}
               />
             </div>
 
             <div className="col-4">
               <SavedWords 
                 savedWords={this.state.savedWords} 
-                // callBack={this.handleDelete}
+                callBack={this.handleDelete}
               />
             </div>
 

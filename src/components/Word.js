@@ -1,9 +1,12 @@
 import React from 'react'
-import { Card, Button } from 'react-bootstrap'
+import { Card } from 'react-bootstrap'
 
 const Word = (props) => {
-    return(
+
+    return (
+
         <Card 
+        onClick={() => props.callBack(props.word)}
         style={{width: '18rem'}}
         primary='blue'
         >
@@ -15,10 +18,9 @@ const Word = (props) => {
                 </ul>)}    
         </Card.Body>
         <Card.Body>{props.word.date}</Card.Body>
-        <Button onClick={() => props.handleSave(word)}>Save</Button>
         </Card>
     )
-})
+}
 
 
 export default Word
