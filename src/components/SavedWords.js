@@ -1,18 +1,26 @@
-import { Component } from "react";
-// import Word from "../components/Word";
+import React from "react";
+import Word from "./Word";
 
-class SavedWords extends Component {
-// map into Word
+const SavedWords = (props) => {
 
-    render() {
-
+    console.log('SavWor', props.savedWords)
+    
         return(
+    
             <div>
-                <h2>Saved Words:</h2>
+    
+            <h2>Saved Words:</h2>
+
+            {props.savedWords.map(word => {
+                return (
+                <div>
+                < Word word={word} />
+                </div>
+                )})
+            }
+
             </div>
         )
     }
-
-}
 
 export default SavedWords

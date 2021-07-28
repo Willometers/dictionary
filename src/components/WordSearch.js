@@ -1,17 +1,26 @@
-import { Component } from "react";
-// import WordContainer from "../containers/WordContainer";
+import React from "react";
+import Word from "./Word";
 
-class WordSearch extends Component {
-// map into Word
+const WordSearch = (props) => {
 
-    render() {
+console.log('WoSear', props)
+
         return(
-            
+
             <div>
 
+            <h2>Search Resutls:</h2>
+
+            {props.allWords.map(word => {
+                return (
+                <div>
+                < Word word={word} />
+                </div>
+                )})
+            }
+                
             </div>
         )
     }    
-}
 
 export default WordSearch

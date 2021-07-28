@@ -3,8 +3,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import NavBar from './components/NavBar';
 import Home from './components/Home'
-import WordSearch from './components/WordSearch';
-import SavedWords from './components/SavedWords';
+// import WordSearch from './components/WordSearch';
+// import SavedWords from './components/SavedWords';
+import WordContainer from './containers/WordContainer';
 
 
 function App() {
@@ -19,8 +20,13 @@ function App() {
       <NavBar/>
         
         <Switch>
-          <Route exact path='/' component={Home} />
-          <Route exact path='/wordsearch' component={WordSearch} />
+
+          <Route exact path='/' 
+          component={Home} />
+
+          <Route exact path='/wordsearch' 
+          component={WordContainer} />
+
         </Switch>
 
         

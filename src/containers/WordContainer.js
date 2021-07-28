@@ -1,6 +1,7 @@
 import { Component } from "react";
 import WordSearch from "../components/WordSearch";
 import SavedWords from "../components/SavedWords";
+import { Form } from "react-bootstrap"
 
 const URL = 'https://dictionaryapi.com/api/v3/references/collegiate/json/'
 const key = '?key=99b4ce5d-7ca7-4258-90a4-39b4171e5d4a'
@@ -45,6 +46,7 @@ render() {
                 onSubmit={(e) => {
                     e.preventDefault()
                     e.target.reset()
+                    console.log('submitted')
                     this.fetchWords()}}
                 >
                 <Form.Control 
@@ -59,15 +61,15 @@ render() {
 
             <div className="col-8">
               <WordSearch
-                words={this.state.allWords} 
-                handleSave={this.handleSave}
+                allWords={this.state.allWords} 
+                // callBack={this.handleSave}
               />
             </div>
 
             <div className="col-4">
               <SavedWords 
                 savedWords={this.state.savedWords} 
-                handleDelete={this.handleDelete}
+                // callBack={this.handleDelete}
               />
             </div>
 
