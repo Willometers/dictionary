@@ -58,7 +58,7 @@ render() {
             <div className="row">
 
             <div className="col-8">
-              <WordContainer 
+              <WordSearch
                 words={this.state.allWords} 
                 handleSave={this.handleSave}
               />
