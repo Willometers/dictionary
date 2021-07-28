@@ -21,7 +21,6 @@ function App() {
         <Switch>
           <Route exact path='/' component={Home} />
           <Route exact path='/wordsearch' component={WordSearch} />
-          <Route exact path='/savedwords' component={SavedWords} />
         </Switch>
 
         

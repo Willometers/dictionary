@@ -6,7 +6,9 @@ class NavBar extends Component {
 render() {
 
     return(
+
         <div>
+
         <NavLink 
             to="/"
             exact
@@ -25,16 +27,10 @@ render() {
                 color: 'white'
         }}>Word Search</NavLink>
 
-        <NavLink
-            to='/savedwords'
-            exact
-            style={{
-                padding: '5px',
-                background: 'red',
-                color: 'white'
-        }}>Saved Words</NavLink>
         </div>
+
         )
+        
     }
 }
 

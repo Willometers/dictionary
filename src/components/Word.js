@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, Button, Row, Col } from 'react-bootstrap'
+import { Card, Button, Col } from 'react-bootstrap'
 
 const Word = (props) => {
 
@@ -8,9 +8,6 @@ return(
 props.words.map(word => {
 
     return(
-
-    <Row xs={2} md={1} className="g-4">
-    {Array.from({ length: 1 }).map((_, idx) => (
 
     <Col>
         <Card 
@@ -28,8 +25,6 @@ props.words.map(word => {
         <Button onClick={() => props.handleSave(word)}>Save</Button>
         </Card>
     </Col>
-    ))}
-    </Row>
     )
 })
 )}
