@@ -1,0 +1,138 @@
+{
+  "posts": [
+    {
+      "meta": {
+        "id": "Syracuse:g",
+        "uuid": "414b258e-f5a3-40b8-bcb0-091a180148d5",
+        "sort": "283298000",
+        "src": "collegiate",
+        "section": "geog",
+        "stems": [
+          "Siracusa",
+          "Syracusae",
+          "Syracusan",
+          "Syracuse"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Syr*a*cuse",
+        "prs": [
+          {
+            "mw": "ˈsir-ə-ˌkyüs",
+            "sound": {
+              "audio": "ggsyra01",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "-ˌkyüz"
+          }
+        ]
+      },
+      "fl": "geographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "city in central New York near Oneida Lake {it}population{/it} 145,170"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "vrs": [
+                    {
+                      "vl": "or Italian",
+                      "va": "Si*ra*cu*sa",
+                      "prs": [
+                        {
+                          "mw": "ˌsē-rä-ˈkü-zä",
+                          "sound": {
+                            "audio": "sirac01g",
+                            "ref": "c",
+                            "stat": "1"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "vl": "or ancient",
+                      "va": "Syr*a*cu*sae",
+                      "prs": [
+                        {
+                          "mw": "ˌsir-ə-ˈkyü-(ˌ)sē",
+                          "sound": {
+                            "audio": "ggsyra02",
+                            "ref": "c",
+                            "stat": "1"
+                          }
+                        },
+                        {
+                          "mw": "-(ˌ)zē"
+                        }
+                      ]
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "city and port on the Ionian Sea in southeastern Sicily, Italy {it}population{/it} 118,385"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "Syr*a*cu*san",
+          "prs": [
+            {
+              "mw": "ˌsir-ə-ˈkyü-sᵊn",
+              "sound": {
+                "audio": "ggsyra03",
+                "ref": "c",
+                "stat": "1"
+              }
+            },
+            {
+              "mw": "-zᵊn"
+            }
+          ],
+          "fl": "adjective or noun"
+        }
+      ],
+      "shortdef": [
+        "city in central New York near Oneida Lake population 145,170",
+        "city and port on the Ionian Sea in southeastern Sicily, Italy population 118,385"
+      ],
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

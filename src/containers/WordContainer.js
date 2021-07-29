@@ -27,7 +27,7 @@ postWords = () => {
 }
 
 handleSave = (newWord) => {
-  // console.log(this.state.savedWords)
+  console.log(this.state.savedWords)
   if (!this.state.savedWords.find(word => word === newWord))
       this.setState({
         savedWords: [...this.state.savedWords, newWord] })

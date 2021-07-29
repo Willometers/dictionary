@@ -15,7 +15,8 @@ function App() {
     <Router>
 
     <div className="App">
-    < img src='https://dictionaryapi.com/images/MWLogo_120x120_2x.png' alt="logo" />
+    < img src='https://dictionaryapi.com/images/MWLogo_120x120_2x.png' 
+          alt="logo" />
   
 
       <NavBar/>

@@ -15,23 +15,22 @@ class PreviousSavesContainer extends Component {
         .then(words => this.setState({previousSaves: words}))
     }
 
-    
-
-    handleDelete = () => {
-    console.log("deleted previous")
+    handleDelete = (word) => {
+        console.log(word)
     }
 
     render() {
-
-        {console.log(this.state.previousSaves)}
+        // console.log(this.state.previousSaves)
         return(
             <div>
             {this.state.previousSaves.map(word => {
+                console.log(word)
                 return (
                     <div>
                         < Word 
                             word={word}
-                            callBack={this.handleDelete} />
+                            callBack={this.handleDelete} 
+                        />
                     </div>
                 )})
             }

@@ -6,9 +6,9 @@ const Word = (props) => {
     return (
 
         <Card 
-        onClick={() => props.callBack(props.word)}
-        style={{width: '18rem'}}
-        primary='blue'
+            onClick={() => props.callBack(props.word)}
+            style={{width: '18rem'}}
+            primary='blue'
         >
         <Card.Title>{props.word.meta.id}</Card.Title>
         <Card.Body>
@@ -21,5 +21,6 @@ const Word = (props) => {
         </Card>
     )
 }
+
 
 export default Word
