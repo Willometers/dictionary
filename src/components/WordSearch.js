@@ -3,13 +3,13 @@ import Word from "./Word";
 
 const WordSearch = (props) => {
 
-    console.log('WoSear', props)
+    // console.log('WoSear', props)
 
         return(
 
             <div>
 
-            <h2>Search Results:</h2>
+            <h3>Search Results:</h3>
 
             {props.allWords.map(word => {
                 return (

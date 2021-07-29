@@ -6,6 +6,7 @@ import Home from './components/Home'
 // import WordSearch from './components/WordSearch';
 // import SavedWords from './components/SavedWords';
 import WordContainer from './containers/WordContainer';
+import PreviousSavesContainer from './components/PreviousSavesContainer';
 
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
 
     <div className="App">
     < img src='https://dictionaryapi.com/images/MWLogo_120x120_2x.png' alt="logo" />
-    
+  
 
       <NavBar/>
         
@@ -27,10 +28,11 @@ function App() {
           <Route exact path='/wordsearch' 
           component={WordContainer} />
 
+          <Route exact path='/previoussaves' 
+          component={PreviousSavesContainer} />
+
         </Switch>
 
-        
-      
     </div>
 
     </Router>

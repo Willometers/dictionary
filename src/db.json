@@ -1,9 +1,93 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "meta": {
+        "id": "hello",
+        "uuid": "0cdef8d5-c9d1-431b-b397-2077a127c328",
+        "sort": "080126800",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "hello",
+          "hellos"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hel*lo",
+        "prs": [
+          {
+            "mw": "hə-ˈlō",
+            "sound": {
+              "audio": "hello001",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "he-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "hel*los"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an expression or gesture of greeting "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "used interjectionally in greeting, in answering the telephone, or to express surprise "
+                          ],
+                          [
+                            "vis",
+                            [
+                              {
+                                "t": "{wi}hello{/wi} there"
+                              },
+                              {
+                                "t": "waved {wi}hello{/wi}"
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "alteration of {it}hollo{/it}"
+        ]
+      ],
+      "date": "1834",
+      "shortdef": [
+        "an expression or gesture of greeting —used interjectionally in greeting, in answering the telephone, or to express surprise"
+      ],
+      "id": 2
     },
     {
       "meta": {
@@ -92,7 +176,446 @@
       "shortdef": [
         "an expression or gesture of greeting —used interjectionally in greeting, in answering the telephone, or to express surprise"
       ],
-      "id": 2
+      "id": 3
+    },
+    {
+      "meta": {
+        "id": "hello",
+        "uuid": "0cdef8d5-c9d1-431b-b397-2077a127c328",
+        "sort": "080126800",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "hello",
+          "hellos"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hel*lo",
+        "prs": [
+          {
+            "mw": "hə-ˈlō",
+            "sound": {
+              "audio": "hello001",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "he-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "hel*los"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an expression or gesture of greeting "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "used interjectionally in greeting, in answering the telephone, or to express surprise "
+                          ],
+                          [
+                            "vis",
+                            [
+                              {
+                                "t": "{wi}hello{/wi} there"
+                              },
+                              {
+                                "t": "waved {wi}hello{/wi}"
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "alteration of {it}hollo{/it}"
+        ]
+      ],
+      "date": "1834",
+      "shortdef": [
+        "an expression or gesture of greeting —used interjectionally in greeting, in answering the telephone, or to express surprise"
+      ],
+      "id": 4
+    },
+    {
+      "meta": {
+        "id": "Syracuse:g",
+        "uuid": "414b258e-f5a3-40b8-bcb0-091a180148d5",
+        "sort": "283298000",
+        "src": "collegiate",
+        "section": "geog",
+        "stems": [
+          "Siracusa",
+          "Syracusae",
+          "Syracusan",
+          "Syracuse"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Syr*a*cuse",
+        "prs": [
+          {
+            "mw": "ˈsir-ə-ˌkyüs",
+            "sound": {
+              "audio": "ggsyra01",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "-ˌkyüz"
+          }
+        ]
+      },
+      "fl": "geographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "city in central New York near Oneida Lake {it}population{/it} 145,170"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "vrs": [
+                    {
+                      "vl": "or Italian",
+                      "va": "Si*ra*cu*sa",
+                      "prs": [
+                        {
+                          "mw": "ˌsē-rä-ˈkü-zä",
+                          "sound": {
+                            "audio": "sirac01g",
+                            "ref": "c",
+                            "stat": "1"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "vl": "or ancient",
+                      "va": "Syr*a*cu*sae",
+                      "prs": [
+                        {
+                          "mw": "ˌsir-ə-ˈkyü-(ˌ)sē",
+                          "sound": {
+                            "audio": "ggsyra02",
+                            "ref": "c",
+                            "stat": "1"
+                          }
+                        },
+                        {
+                          "mw": "-(ˌ)zē"
+                        }
+                      ]
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "city and port on the Ionian Sea in southeastern Sicily, Italy {it}population{/it} 118,385"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "Syr*a*cu*san",
+          "prs": [
+            {
+              "mw": "ˌsir-ə-ˈkyü-sᵊn",
+              "sound": {
+                "audio": "ggsyra03",
+                "ref": "c",
+                "stat": "1"
+              }
+            },
+            {
+              "mw": "-zᵊn"
+            }
+          ],
+          "fl": "adjective or noun"
+        }
+      ],
+      "shortdef": [
+        "city in central New York near Oneida Lake population 145,170",
+        "city and port on the Ionian Sea in southeastern Sicily, Italy population 118,385"
+      ],
+      "id": 5
+    },
+    {
+      "meta": {
+        "id": "Syracuse:g",
+        "uuid": "414b258e-f5a3-40b8-bcb0-091a180148d5",
+        "sort": "283298000",
+        "src": "collegiate",
+        "section": "geog",
+        "stems": [
+          "Siracusa",
+          "Syracusae",
+          "Syracusan",
+          "Syracuse"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Syr*a*cuse",
+        "prs": [
+          {
+            "mw": "ˈsir-ə-ˌkyüs",
+            "sound": {
+              "audio": "ggsyra01",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "-ˌkyüz"
+          }
+        ]
+      },
+      "fl": "geographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "city in central New York near Oneida Lake {it}population{/it} 145,170"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "vrs": [
+                    {
+                      "vl": "or Italian",
+                      "va": "Si*ra*cu*sa",
+                      "prs": [
+                        {
+                          "mw": "ˌsē-rä-ˈkü-zä",
+                          "sound": {
+                            "audio": "sirac01g",
+                            "ref": "c",
+                            "stat": "1"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "vl": "or ancient",
+                      "va": "Syr*a*cu*sae",
+                      "prs": [
+                        {
+                          "mw": "ˌsir-ə-ˈkyü-(ˌ)sē",
+                          "sound": {
+                            "audio": "ggsyra02",
+                            "ref": "c",
+                            "stat": "1"
+                          }
+                        },
+                        {
+                          "mw": "-(ˌ)zē"
+                        }
+                      ]
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "city and port on the Ionian Sea in southeastern Sicily, Italy {it}population{/it} 118,385"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "Syr*a*cu*san",
+          "prs": [
+            {
+              "mw": "ˌsir-ə-ˈkyü-sᵊn",
+              "sound": {
+                "audio": "ggsyra03",
+                "ref": "c",
+                "stat": "1"
+              }
+            },
+            {
+              "mw": "-zᵊn"
+            }
+          ],
+          "fl": "adjective or noun"
+        }
+      ],
+      "shortdef": [
+        "city in central New York near Oneida Lake population 145,170",
+        "city and port on the Ionian Sea in southeastern Sicily, Italy population 118,385"
+      ],
+      "id": 6
+    },
+    {
+      "meta": {
+        "id": "kindness",
+        "uuid": "b50cd487-b25e-4329-b184-2d0c159d602c",
+        "sort": "110044300",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "kindness",
+          "kindnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "kind*ness",
+        "prs": [
+          {
+            "mw": "ˈkīn(d)-nəs",
+            "sound": {
+              "audio": "kindne01",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the quality or state of being kind "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "treating people with {wi}kindness{/wi} and respect"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a {d_link|kind|kind:2} deed {bc}{sx|favor||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They did me a great {wi}kindness{/wi}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "sls": [
+                    "archaic"
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|affection||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "14th century{ds||1||}",
+      "shortdef": [
+        "the quality or state of being kind",
+        "a kind deed : favor",
+        "affection"
+      ],
+      "id": 7
     }
   ],
   "comments": [

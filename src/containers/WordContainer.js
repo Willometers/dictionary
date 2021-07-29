@@ -27,7 +27,7 @@ postWords = () => {
 }
 
 handleSave = (newWord) => {
-  console.log(this.state.savedWords)
+  // console.log(this.state.savedWords)
   if (!this.state.savedWords.find(word => word === newWord))
       this.setState({
         savedWords: [...this.state.savedWords, newWord] })
@@ -42,9 +42,7 @@ handleSave = (newWord) => {
         }
         fetch(postUrl, head)
         .then(res => res.json())
-        .then(() => {
-          this.getWords()
-        })
+
 }
 
 handleDelete = (newWord) => {
@@ -66,7 +64,7 @@ render() {
                 onSubmit={(e) => {
                     e.preventDefault()
                     e.target.reset()
-                    console.log('submitted')
+                    // console.log('submitted')
                     this.getWords()}}>
                 <Form.Control 
                 size='lg' 
