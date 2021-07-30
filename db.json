@@ -589,6 +589,95 @@
         "rescue, save"
       ],
       "id": 4
+    },
+    {
+      "meta": {
+        "id": "home brew",
+        "uuid": "8d751fe6-cf18-46ce-8b68-414e7e094150",
+        "sort": "080232100",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "home brew",
+          "home brews",
+          "home-brewed"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "home brew"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a beverage (such as beer or coffee) that is brewed at home "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We arrive at happy hour, when the students who live on the farm and help sell the week's harvest at the market kick back with some {wi}home brew{/wi} after a hard day's work.",
+                          "aq": {
+                            "auth": "Caroline Campion"
+                          }
+                        },
+                        {
+                          "t": "The company also has a brew school, which provides an accessible learning space for coffee novices and experienced baristas alike. Some of the classes offered include {wi}home brew{/wi} methods, espresso extraction, and latte art to name a few.",
+                          "aq": {
+                            "auth": "Kara Thompson"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "home-brewed",
+          "prs": [
+            {
+              "mw": "ˈhōm-ˈbrüd",
+              "sound": {
+                "audio": "home-brewed",
+                "ref": "owl",
+                "stat": "1"
+              }
+            }
+          ],
+          "fl": "adjective",
+          "utxt": [
+            [
+              "vis",
+              [
+                {
+                  "t": "He also said health workers eliminated methanol or other toxins in {wi}home-brewed{/wi} alcoholic beverages.",
+                  "aq": {
+                    "auth": "Lawrence K. Altman"
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1814",
+      "shortdef": [
+        "a beverage (such as beer or coffee) that is brewed at home"
+      ],
+      "id": 5
     }
   ],
   "comments": [

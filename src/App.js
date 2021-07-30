@@ -7,6 +7,7 @@ import Home from './components/Home'
 // import SavedWords from './components/SavedWords';
 import WordContainer from './containers/WordContainer';
 import PreviousSavesContainer from './components/PreviousSavesContainer';
+import ThesaurusContainer from './containers/ThesaurusContainer';
 
 
 function App() {
@@ -29,8 +30,13 @@ function App() {
           <Route exact path='/wordsearch' 
           component={WordContainer} />
 
+          <Route exact path='/thesaurussearch' 
+          component={ThesaurusContainer} />
+
           <Route exact path='/previoussaves' 
           component={PreviousSavesContainer} />
+
+
 
         </Switch>
 

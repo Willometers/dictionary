@@ -26,6 +26,15 @@ render() {
                 color: 'white'
         }}>Word Search</NavLink>
 
+            <NavLink
+            to='/thesaurussearch'
+            exact
+            style={{
+                padding: '5px',
+                background: 'red',
+                color: 'white'
+        }}>Thesaurus Search</NavLink>
+
         <NavLink
             to='/previoussaves'
             exact
