@@ -678,6 +678,435 @@
         "a beverage (such as beer or coffee) that is brewed at home"
       ],
       "id": 5
+    },
+    {
+      "meta": {
+        "id": "paper",
+        "uuid": "e3002399-b360-4002-9fcb-cd7d96c50d5f",
+        "src": "coll_thes",
+        "section": "alpha",
+        "target": {
+          "tuuid": "b4b7a0ba-f549-4694-9956-6dc1dbf9f5b6",
+          "tsrc": "collegiate"
+        },
+        "stems": [
+          "paper",
+          "on paper",
+          "papers"
+        ],
+        "syns": [
+          [
+            "blank",
+            "document",
+            "form"
+          ],
+          [
+            "book",
+            "bulletin",
+            "diurnal",
+            "gazette",
+            "journal",
+            "mag",
+            "magazine",
+            "newspaper",
+            "organ",
+            "periodical",
+            "rag",
+            "review",
+            "serial",
+            "zine"
+          ],
+          [
+            "composition",
+            "theme"
+          ],
+          [
+            "article",
+            "composition",
+            "essay",
+            "theme"
+          ]
+        ],
+        "ants": [],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "paper"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "a piece of paper with information written or to be written on it "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "handed in the correct {it}papers{/it}"
+                        }
+                      ]
+                    ]
+                  ],
+                  "syn_list": [
+                    [
+                      {
+                        "wd": "blank"
+                      },
+                      {
+                        "wd": "document"
+                      },
+                      {
+                        "wd": "form"
+                      }
+                    ]
+                  ],
+                  "rel_list": [
+                    [
+                      {
+                        "wd": "instrument"
+                      },
+                      {
+                        "wd": "writ"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "filing"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "sheet"
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "a publication that appears at regular intervals "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "we get the {it}paper{/it} every morning"
+                        }
+                      ]
+                    ]
+                  ],
+                  "syn_list": [
+                    [
+                      {
+                        "wd": "book"
+                      },
+                      {
+                        "wd": "bulletin"
+                      },
+                      {
+                        "wd": "diurnal"
+                      },
+                      {
+                        "wd": "gazette"
+                      },
+                      {
+                        "wd": "journal"
+                      },
+                      {
+                        "wd": "mag"
+                      },
+                      {
+                        "wd": "magazine"
+                      },
+                      {
+                        "wd": "newspaper"
+                      },
+                      {
+                        "wd": "organ"
+                      },
+                      {
+                        "wd": "periodical"
+                      },
+                      {
+                        "wd": "rag"
+                      },
+                      {
+                        "wd": "review"
+                      },
+                      {
+                        "wd": "serial"
+                      },
+                      {
+                        "wd": "zine"
+                      }
+                    ]
+                  ],
+                  "rel_list": [
+                    [
+                      {
+                        "wd": "annual"
+                      },
+                      {
+                        "wd": "bimonthly"
+                      },
+                      {
+                        "wd": "biweekly"
+                      },
+                      {
+                        "wd": "daily"
+                      },
+                      {
+                        "wd": "monthly"
+                      },
+                      {
+                        "wd": "quarterly"
+                      },
+                      {
+                        "wd": "semimonthly"
+                      },
+                      {
+                        "wd": "semiweekly"
+                      },
+                      {
+                        "wd": "triweekly"
+                      },
+                      {
+                        "wd": "weekly"
+                      },
+                      {
+                        "wd": "yearbook"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "digest"
+                      },
+                      {
+                        "wd": "little magazine"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "fanzine"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "pictorial"
+                      },
+                      {
+                        "wd": "slick"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "broadside"
+                      },
+                      {
+                        "wd": "edition"
+                      },
+                      {
+                        "wd": "extra"
+                      },
+                      {
+                        "wd": "sheet"
+                      },
+                      {
+                        "wd": "supplement"
+                      },
+                      {
+                        "wd": "tab"
+                      },
+                      {
+                        "wd": "tabloid"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "newsletter"
+                      },
+                      {
+                        "wd": "newsmagazine"
+                      },
+                      {
+                        "wd": "newsweekly"
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "a short piece of writing done as a school exercise "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "write a {it}paper{/it} about your favorite author"
+                        }
+                      ]
+                    ]
+                  ],
+                  "syn_list": [
+                    [
+                      {
+                        "wd": "composition"
+                      },
+                      {
+                        "wd": "theme"
+                      }
+                    ]
+                  ],
+                  "rel_list": [
+                    [
+                      {
+                        "wd": "article"
+                      },
+                      {
+                        "wd": "essay"
+                      },
+                      {
+                        "wd": "story"
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "a short piece of writing typically expressing a point of view "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {it}papers{/it} written by the Founding Fathers urging adoption of the federal constitution"
+                        }
+                      ]
+                    ]
+                  ],
+                  "syn_list": [
+                    [
+                      {
+                        "wd": "article"
+                      },
+                      {
+                        "wd": "composition"
+                      },
+                      {
+                        "wd": "essay"
+                      },
+                      {
+                        "wd": "theme"
+                      }
+                    ]
+                  ],
+                  "rel_list": [
+                    [
+                      {
+                        "wd": "causerie"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "column"
+                      },
+                      {
+                        "wd": "commentary"
+                      },
+                      {
+                        "wd": "editorial"
+                      },
+                      {
+                        "wd": "feature"
+                      },
+                      {
+                        "wd": "report"
+                      },
+                      {
+                        "wd": "review"
+                      },
+                      {
+                        "wd": "write-up"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "dissertation"
+                      },
+                      {
+                        "wd": "thesis"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "tract"
+                      },
+                      {
+                        "wd": "treatise"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "discourse"
+                      },
+                      {
+                        "wd": "discussion"
+                      },
+                      {
+                        "wd": "exposition"
+                      },
+                      {
+                        "wd": "prolegomenon"
+                      },
+                      {
+                        "wd": "study"
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a piece of paper with information written or to be written on it",
+        "a publication that appears at regular intervals",
+        "a short piece of writing done as a school exercise"
+      ],
+      "id": 6
     }
   ],
   "comments": [

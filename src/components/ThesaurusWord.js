@@ -1,7 +1,7 @@
 import React from 'react'
 import { Card } from 'react-bootstrap'
 
-const Word = (props) => {
+const ThesaurusWord = (props) => {
 
     return (
 
@@ -14,7 +14,7 @@ const Word = (props) => {
         >
         <Card.Title>{props.word.meta.id}</Card.Title>
         <Card.Body>
-            {props.word.shortdef.map(def => 
+            {props.word.syns.map(def => 
                 <ul>
                     <li>{def}</li>
                 </ul>)}    
@@ -24,4 +24,4 @@ const Word = (props) => {
     )
 }
 
-export default Word
+export default ThesaurusWord

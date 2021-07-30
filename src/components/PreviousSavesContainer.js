@@ -15,8 +15,8 @@ class PreviousSavesContainer extends Component {
         .then(words => this.setState({previousSaves: words}))
     }
 
-    handleDelete = (word) => {
-        console.log(word.meta.sort)
+    handleDelete = (e) => {
+        console.log(e.meta.sort)
     }
 
     render() {

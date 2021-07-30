@@ -9,7 +9,6 @@ import WordContainer from './containers/WordContainer';
 import PreviousSavesContainer from './components/PreviousSavesContainer';
 import ThesaurusContainer from './containers/ThesaurusContainer';
 
-
 function App() {
   
   return (
@@ -35,8 +34,6 @@ function App() {
 
           <Route exact path='/previoussaves' 
           component={PreviousSavesContainer} />
-
-
 
         </Switch>
 
