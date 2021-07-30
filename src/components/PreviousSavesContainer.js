@@ -16,7 +16,7 @@ class PreviousSavesContainer extends Component {
     }
 
     handleDelete = (word) => {
-        console.log(word)
+        console.log(word.meta.sort)
     }
 
     render() {
@@ -26,7 +26,11 @@ class PreviousSavesContainer extends Component {
             {this.state.previousSaves.map(word => {
                 console.log(word)
                 return (
-                    <div>
+                    <div
+                        className="word-card"
+                        key={word.meta.sort}
+                    >
+                        <br></br>
                         < Word 
                             word={word}
                             callBack={this.handleDelete} 

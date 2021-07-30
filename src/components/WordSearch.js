@@ -8,12 +8,15 @@ const WordSearch = (props) => {
         return(
 
             <div>
-
+            <br></br>
             <h3>Search Results:</h3>
 
             {props.allWords.map(word => {
                 return (
-                <div>
+                <div
+                    className="word-card"
+                    key={word.meta.sort}
+                >
                 < Word 
                     word={word}
                     callBack={props.callBack} />

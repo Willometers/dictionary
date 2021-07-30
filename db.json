@@ -123,6 +123,472 @@
         "city and port on the Ionian Sea in southeastern Sicily, Italy population 118,385"
       ],
       "id": 2
+    },
+    {
+      "meta": {
+        "id": "basket-of-gold",
+        "uuid": "cc8752e7-f173-44b9-8f6e-b4f13d4551c1",
+        "sort": "020087000",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "basket-of-gold",
+          "basket-of-golds"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "basket-of-gold"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a European perennial herb ({it}Aurinia saxatilis{/it} synonym {it}Alyssum saxatile{/it}) of the mustard family widely cultivated for its grayish foliage and yellow flowers"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1818",
+      "shortdef": [
+        "a European perennial herb (Aurinia saxatilis synonym Alyssum saxatile) of the mustard family widely cultivated for its grayish foliage and yellow flowers"
+      ],
+      "id": 3
+    },
+    {
+      "meta": {
+        "id": "help:1",
+        "uuid": "aaa04c5f-8b42-42b7-8b1c-bf59107acab4",
+        "sort": "080128200",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "help",
+          "helped",
+          "helping",
+          "helps",
+          "so help me"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "help",
+        "prs": [
+          {
+            "mw": "ˈhelp",
+            "pun": ";",
+            "sound": {
+              "audio": "help0001",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "l": "Southern often",
+            "mw": "ˈhep"
+          },
+          {
+            "l": "also",
+            "mw": "ˈheəp"
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "helped"
+        },
+        {
+          "if": "help*ing"
+        },
+        {
+          "if": "helps"
+        }
+      ],
+      "def": [
+        {
+          "vd": "transitive verb",
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to give assistance or support to "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{wi}help{/wi} a child with homework"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make more pleasant or bearable {bc}{sx|improve||}, {sx|relieve||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "bright curtains will {wi}help{/wi} the room"
+                        },
+                        {
+                          "t": "took an aspirin to {wi}help{/wi} her headache"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "sls": [
+                    "archaic"
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|rescue||}, {sx|save||}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be of use to {bc}{sx|benefit||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "will do anything to {wi}help{/wi} their cause"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to further the advancement of {bc}{sx|promote||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "could {wi}help{/wi} negotiations"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to change for the better"
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to refrain from {bc}{sx|avoid||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "we couldn't {wi}help{/wi} laughing"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "c",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to keep from occurring {bc}{sx|prevent||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "they couldn't {wi}help{/wi} the accident"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "d",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to restrain (oneself) from doing something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "knew they shouldn't go but couldn't {wi}help{/wi} themselves"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to serve with food or drink especially at a meal "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "told the guests to {wi}help{/wi} themselves"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take something for (oneself) without permission "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{wi}helped{/wi} himself to the car keys"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        },
+        {
+          "vd": "intransitive verb",
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to give assistance or support "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "often used with {it}out{/it} "
+                          ],
+                          [
+                            "vis",
+                            [
+                              {
+                                "t": "{wi}helps{/wi} out with the housework"
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be of use or benefit "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "every little bit {wi}helps{/wi}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "so help me",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}upon my word {bc}believe it or not"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "syns": [
+        {
+          "pl": "synonyms",
+          "pt": [
+            [
+              "text",
+              "{sc}improve{/sc} {sc}better{/sc} {sc}help{/sc} {sc}ameliorate{/sc} mean to make more acceptable or to bring nearer a standard. {sc}improve{/sc} and {sc}better{/sc} are general and interchangeable and apply to what can be made better whether it is good or bad. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "measures to further {it}improve{/it} the quality of medical care"
+                },
+                {
+                  "t": "immigrants hoping to {it}better{/it} their lot"
+                }
+              ]
+            ],
+            [
+              "text",
+              " {sc}help{/sc} implies a bettering that still leaves room for improvement. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "a coat of paint would {it}help{/it} that house"
+                }
+              ]
+            ],
+            [
+              "text",
+              " {sc}ameliorate{/sc} implies making more tolerable or acceptable conditions that are hard to endure. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "tried to {it}ameliorate{/it} the lives of people in the tenements"
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Middle English, from Old English {it}helpan{/it}; akin to Old High German {it}helfan{/it} to help, and perhaps to Lithuanian {it}šelpti{/it}"
+        ]
+      ],
+      "date": "before 12th century{ds|t|1||}",
+      "shortdef": [
+        "to give assistance or support to",
+        "to make more pleasant or bearable : improve, relieve",
+        "rescue, save"
+      ],
+      "id": 4
     }
   ],
   "comments": [

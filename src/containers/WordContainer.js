@@ -54,7 +54,10 @@ handleDelete = (newWord) => {
 render() {
     return(
         <div>
+          <br></br>
             <h2>Word Search:</h2>
+            <p>click word to save</p>
+            <br></br>
             <Form onChange={(e) => {
                 e.preventDefault()
                 this.setState({

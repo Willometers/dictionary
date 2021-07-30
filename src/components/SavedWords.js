@@ -8,12 +8,15 @@ const SavedWords = (props) => {
         return(
     
             <div>
-    
+            <br></br>
             <h3>Saved Words:</h3>
 
             {props.savedWords.map(word => {
                 return (
-                <div>
+                <div
+                    className="word-card"
+                    key={word.meta.sort}
+                >
                 < Word 
                     word={word}
                     callBack={props.callBack} />

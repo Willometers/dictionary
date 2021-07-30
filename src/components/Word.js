@@ -9,6 +9,8 @@ const Word = (props) => {
             onClick={() => props.callBack(props.word)}
             style={{width: '18rem'}}
             primary='blue'
+            className="word-card"
+            key={props.word.meta.sort}
         >
         <Card.Title>{props.word.meta.id}</Card.Title>
         <Card.Body>
