@@ -14,10 +14,14 @@ const ThesaurusWord = (props) => {
         >
         <Card.Title>{props.word.meta.id}</Card.Title>
         <Card.Body>
-            {props.word.syns.map(def => 
-                <ul>
-                    <li>{def}</li>
-                </ul>)}    
+            {
+                props.word.meta.syns.map(word => {
+                return (
+                word.map(defs => {
+                    return (
+                    <li>{ defs }</li>
+                    )}))})
+            }
         </Card.Body>
         <Card.Body>{props.word.date}</Card.Body>
         </Card>

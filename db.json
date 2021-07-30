@@ -1107,6 +1107,407 @@
         "a short piece of writing done as a school exercise"
       ],
       "id": 6
+    },
+    {
+      "meta": {
+        "id": "high-tech",
+        "uuid": "af88f1e7-9978-481e-84ff-0e5f1c599a3d",
+        "src": "CTenhance",
+        "section": "alpha",
+        "stems": [
+          "high-tech",
+          "hi-tech"
+        ],
+        "syns": [
+          [
+            "futuristic",
+            "contemporary",
+            "current",
+            "designer",
+            "hot",
+            "mod",
+            "modern",
+            "modernistic",
+            "new age",
+            "newfangled",
+            "new-fashioned",
+            "present-day",
+            "red-hot",
+            "space-age",
+            "state-of-the-art",
+            "ultramodern",
+            "up-to-date",
+            "up-to-the-minute",
+            "fashionable",
+            "happening",
+            "in",
+            "modish",
+            "nouvelle",
+            "now",
+            "stylish",
+            "last",
+            "latest",
+            "modernized",
+            "updated",
+            "latter-day",
+            "recent"
+          ]
+        ],
+        "ants": [
+          [
+            "anachronistic",
+            "aged",
+            "age-old",
+            "ancient",
+            "antediluvian",
+            "hoary",
+            "old",
+            "venerable",
+            "bygone",
+            "former",
+            "late",
+            "olden",
+            "past",
+            "antique",
+            "historic",
+            "historical",
+            "retro",
+            "retrograde",
+            "kaput",
+            "obsolete",
+            "outmoded",
+            "outworn",
+            "unmodernized",
+            "old-world",
+            "discarded",
+            "disused",
+            "moth-eaten",
+            "forgotten",
+            "remote",
+            "ageless",
+            "dateless",
+            "timeless",
+            "antiquated",
+            "archaic",
+            "dated",
+            "fusty",
+            "musty",
+            "oldfangled",
+            "old-fashioned",
+            "old-time",
+            "out-of-date",
+            "passé"
+          ]
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "high-tech"
+      },
+      "vrs": [
+        {
+          "vl": "also",
+          "va": "hi-tech"
+        }
+      ],
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "relating to or using new electronic devices and technology "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}high-tech{/it} devices"
+                        },
+                        {
+                          "t": "The methods they use are very {it}high-tech{/it}."
+                        }
+                      ]
+                    ]
+                  ],
+                  "sim_list": [
+                    [
+                      {
+                        "wd": "futuristic"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "contemporary"
+                      },
+                      {
+                        "wd": "current"
+                      },
+                      {
+                        "wd": "designer"
+                      },
+                      {
+                        "wd": "hot"
+                      },
+                      {
+                        "wd": "mod"
+                      },
+                      {
+                        "wd": "modern"
+                      },
+                      {
+                        "wd": "modernistic"
+                      },
+                      {
+                        "wd": "new age"
+                      },
+                      {
+                        "wd": "newfangled"
+                      },
+                      {
+                        "wd": "new-fashioned"
+                      },
+                      {
+                        "wd": "present-day"
+                      },
+                      {
+                        "wd": "red-hot"
+                      },
+                      {
+                        "wd": "space-age"
+                      },
+                      {
+                        "wd": "state-of-the-art"
+                      },
+                      {
+                        "wd": "ultramodern"
+                      },
+                      {
+                        "wd": "up-to-date"
+                      },
+                      {
+                        "wd": "up-to-the-minute"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "fashionable"
+                      },
+                      {
+                        "wd": "happening"
+                      },
+                      {
+                        "wd": "in"
+                      },
+                      {
+                        "wd": "modish"
+                      },
+                      {
+                        "wd": "nouvelle"
+                      },
+                      {
+                        "wd": "now"
+                      },
+                      {
+                        "wd": "stylish"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "last"
+                      },
+                      {
+                        "wd": "latest"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "modernized"
+                      },
+                      {
+                        "wd": "updated"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "latter-day"
+                      },
+                      {
+                        "wd": "recent"
+                      }
+                    ]
+                  ],
+                  "opp_list": [
+                    [
+                      {
+                        "wd": "anachronistic"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "aged"
+                      },
+                      {
+                        "wd": "age-old"
+                      },
+                      {
+                        "wd": "ancient"
+                      },
+                      {
+                        "wd": "antediluvian"
+                      },
+                      {
+                        "wd": "hoary"
+                      },
+                      {
+                        "wd": "old"
+                      },
+                      {
+                        "wd": "venerable"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "bygone"
+                      },
+                      {
+                        "wd": "former"
+                      },
+                      {
+                        "wd": "late"
+                      },
+                      {
+                        "wd": "olden"
+                      },
+                      {
+                        "wd": "past"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "antique"
+                      },
+                      {
+                        "wd": "historic"
+                      },
+                      {
+                        "wd": "historical"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "retro"
+                      },
+                      {
+                        "wd": "retrograde"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "kaput",
+                        "wvrs": [
+                          {
+                            "wvl": "also",
+                            "wva": "kaputt"
+                          }
+                        ]
+                      },
+                      {
+                        "wd": "obsolete"
+                      },
+                      {
+                        "wd": "outmoded"
+                      },
+                      {
+                        "wd": "outworn"
+                      },
+                      {
+                        "wd": "unmodernized"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "old-world"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "discarded"
+                      },
+                      {
+                        "wd": "disused"
+                      },
+                      {
+                        "wd": "moth-eaten"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "forgotten"
+                      },
+                      {
+                        "wd": "remote"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "ageless"
+                      },
+                      {
+                        "wd": "dateless"
+                      },
+                      {
+                        "wd": "timeless"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "antiquated"
+                      },
+                      {
+                        "wd": "archaic"
+                      },
+                      {
+                        "wd": "dated"
+                      },
+                      {
+                        "wd": "fusty"
+                      },
+                      {
+                        "wd": "musty"
+                      },
+                      {
+                        "wd": "oldfangled"
+                      },
+                      {
+                        "wd": "old-fashioned"
+                      },
+                      {
+                        "wd": "old-time"
+                      },
+                      {
+                        "wd": "out-of-date"
+                      },
+                      {
+                        "wd": "passé"
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "relating to or using new electronic devices and technology"
+      ],
+      "id": 7
     }
   ],
   "comments": [

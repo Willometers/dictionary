@@ -1,5 +1,5 @@
 import { Component } from "react";
-import ThesaurusSearch from "../components/WordSearch";
+import ThesaurusSearch from "../components/ThesaurusSearch";
 import SavedThesaurus from "../components/SavedThesaurus";
 import { Form } from "react-bootstrap"
 
