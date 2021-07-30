@@ -1508,6 +1508,679 @@
         "relating to or using new electronic devices and technology"
       ],
       "id": 7
+    },
+    {
+      "meta": {
+        "id": "baseball",
+        "uuid": "adb8b09d-4d7c-487c-bfd1-2d5c5ef2b12e",
+        "sort": "020081500",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "baseball",
+          "baseballs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "base*ball",
+        "prs": [
+          {
+            "mw": "ˈbās-ˌbȯl",
+            "sound": {
+              "audio": "baseba01",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "lbs": [
+        "often attributive"
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a game played with a bat and ball between two teams of nine players each on a large field having four {d_link|bases|base:1} that mark the course a runner must take to score"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "also",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}the ball used in this game"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1845",
+      "shortdef": [
+        "a game played with a bat and ball between two teams of nine players each on a large field having four bases that mark the course a runner must take to score; also : the ball used in this game"
+      ],
+      "id": 8
+    },
+    {
+      "meta": {
+        "id": "baseball",
+        "uuid": "adb8b09d-4d7c-487c-bfd1-2d5c5ef2b12e",
+        "sort": "020081500",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "baseball",
+          "baseballs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "base*ball",
+        "prs": [
+          {
+            "mw": "ˈbās-ˌbȯl",
+            "sound": {
+              "audio": "baseba01",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "lbs": [
+        "often attributive"
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a game played with a bat and ball between two teams of nine players each on a large field having four {d_link|bases|base:1} that mark the course a runner must take to score"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "also",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}the ball used in this game"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1845",
+      "shortdef": [
+        "a game played with a bat and ball between two teams of nine players each on a large field having four bases that mark the course a runner must take to score; also : the ball used in this game"
+      ],
+      "id": 9
+    },
+    {
+      "meta": {
+        "id": "baseball",
+        "uuid": "adb8b09d-4d7c-487c-bfd1-2d5c5ef2b12e",
+        "sort": "020081500",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "baseball",
+          "baseballs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "base*ball",
+        "prs": [
+          {
+            "mw": "ˈbās-ˌbȯl",
+            "sound": {
+              "audio": "baseba01",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "lbs": [
+        "often attributive"
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a game played with a bat and ball between two teams of nine players each on a large field having four {d_link|bases|base:1} that mark the course a runner must take to score"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "also",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}the ball used in this game"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1845",
+      "shortdef": [
+        "a game played with a bat and ball between two teams of nine players each on a large field having four bases that mark the course a runner must take to score; also : the ball used in this game"
+      ],
+      "id": 10
+    },
+    {
+      "meta": {
+        "id": "baseball",
+        "uuid": "adb8b09d-4d7c-487c-bfd1-2d5c5ef2b12e",
+        "sort": "020081500",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "baseball",
+          "baseballs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "base*ball",
+        "prs": [
+          {
+            "mw": "ˈbās-ˌbȯl",
+            "sound": {
+              "audio": "baseba01",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "lbs": [
+        "often attributive"
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a game played with a bat and ball between two teams of nine players each on a large field having four {d_link|bases|base:1} that mark the course a runner must take to score"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "also",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}the ball used in this game"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1845",
+      "shortdef": [
+        "a game played with a bat and ball between two teams of nine players each on a large field having four bases that mark the course a runner must take to score; also : the ball used in this game"
+      ],
+      "id": 11
+    },
+    {
+      "meta": {
+        "id": "baseball",
+        "uuid": "adb8b09d-4d7c-487c-bfd1-2d5c5ef2b12e",
+        "sort": "020081500",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "baseball",
+          "baseballs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "base*ball",
+        "prs": [
+          {
+            "mw": "ˈbās-ˌbȯl",
+            "sound": {
+              "audio": "baseba01",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "lbs": [
+        "often attributive"
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a game played with a bat and ball between two teams of nine players each on a large field having four {d_link|bases|base:1} that mark the course a runner must take to score"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "also",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}the ball used in this game"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1845",
+      "shortdef": [
+        "a game played with a bat and ball between two teams of nine players each on a large field having four bases that mark the course a runner must take to score; also : the ball used in this game"
+      ],
+      "id": 12
+    },
+    {
+      "meta": {
+        "id": "baseball caps",
+        "uuid": "3fe2a3d3-1dd1-4479-9ae3-bf2e69484bf4",
+        "src": "CTcompile",
+        "section": "alpha",
+        "stems": [
+          "baseball caps"
+        ],
+        "syns": [
+          [
+            "berets",
+            "billycocks",
+            "birettas",
+            "boaters",
+            "bonnets",
+            "bowlers",
+            "calottes",
+            "capuches",
+            "casques",
+            "castors",
+            "cloches",
+            "cocked hats",
+            "cowboy hats",
+            "cowls",
+            "derbies",
+            "fedoras",
+            "fezzes",
+            "garrison caps",
+            "hard hats",
+            "helmets",
+            "helms",
+            "high hats",
+            "homburgs",
+            "hoods",
+            "kepis",
+            "kufis",
+            "leghorns",
+            "miters",
+            "nightcaps",
+            "opera hats",
+            "overseas caps",
+            "panamas",
+            "picture hats",
+            "pillboxes",
+            "plug hats",
+            "porkpie hats",
+            "service caps",
+            "shakos",
+            "silk hats",
+            "skimmers",
+            "skullcaps",
+            "sombreros",
+            "sou'westers",
+            "Stetsons",
+            "stocking caps",
+            "stovepipes",
+            "sunbonnets",
+            "tam-o'-shanters",
+            "tams",
+            "ten-gallon hats",
+            "top hats",
+            "toppers",
+            "toques",
+            "tricornes",
+            "turbans",
+            "zucchettos",
+            "caps",
+            "chapeaus",
+            "hats",
+            "headdresses",
+            "headgears",
+            "headpieces",
+            "lids",
+            "warbonnets"
+          ]
+        ],
+        "ants": [],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "baseball caps"
+      },
+      "fl": "noun",
+      "sls": [
+        "plural of {d_link|baseball cap|baseball cap}"
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "as in {it}cowboy hats{/it}, {it}garrison caps{/it}"
+                    ]
+                  ],
+                  "sim_list": [
+                    [
+                      {
+                        "wd": "berets"
+                      },
+                      {
+                        "wd": "billycocks",
+                        "wsls": [
+                          "British"
+                        ]
+                      },
+                      {
+                        "wd": "birettas"
+                      },
+                      {
+                        "wd": "boaters"
+                      },
+                      {
+                        "wd": "bonnets"
+                      },
+                      {
+                        "wd": "bowlers"
+                      },
+                      {
+                        "wd": "calottes"
+                      },
+                      {
+                        "wd": "capuches"
+                      },
+                      {
+                        "wd": "casques"
+                      },
+                      {
+                        "wd": "castors"
+                      },
+                      {
+                        "wd": "cloches"
+                      },
+                      {
+                        "wd": "cocked hats"
+                      },
+                      {
+                        "wd": "cowboy hats"
+                      },
+                      {
+                        "wd": "cowls"
+                      },
+                      {
+                        "wd": "derbies"
+                      },
+                      {
+                        "wd": "fedoras"
+                      },
+                      {
+                        "wd": "fezzes",
+                        "wvrs": [
+                          {
+                            "wvl": "also",
+                            "wva": "fezes"
+                          }
+                        ]
+                      },
+                      {
+                        "wd": "garrison caps"
+                      },
+                      {
+                        "wd": "hard hats"
+                      },
+                      {
+                        "wd": "helmets"
+                      },
+                      {
+                        "wd": "helms"
+                      },
+                      {
+                        "wd": "high hats"
+                      },
+                      {
+                        "wd": "homburgs"
+                      },
+                      {
+                        "wd": "hoods"
+                      },
+                      {
+                        "wd": "kepis",
+                        "wvrs": [
+                          {
+                            "wvl": "also",
+                            "wva": "képis"
+                          }
+                        ]
+                      },
+                      {
+                        "wd": "kufis"
+                      },
+                      {
+                        "wd": "leghorns"
+                      },
+                      {
+                        "wd": "miters",
+                        "wvrs": [
+                          {
+                            "wvl": "or",
+                            "wva": "mitres"
+                          }
+                        ]
+                      },
+                      {
+                        "wd": "nightcaps"
+                      },
+                      {
+                        "wd": "opera hats"
+                      },
+                      {
+                        "wd": "overseas caps"
+                      },
+                      {
+                        "wd": "panamas"
+                      },
+                      {
+                        "wd": "picture hats"
+                      },
+                      {
+                        "wd": "pillboxes"
+                      },
+                      {
+                        "wd": "plug hats"
+                      },
+                      {
+                        "wd": "porkpie hats"
+                      },
+                      {
+                        "wd": "service caps"
+                      },
+                      {
+                        "wd": "shakos",
+                        "wvrs": [
+                          {
+                            "wvl": "or",
+                            "wva": "shakoes"
+                          }
+                        ]
+                      },
+                      {
+                        "wd": "silk hats"
+                      },
+                      {
+                        "wd": "skimmers"
+                      },
+                      {
+                        "wd": "skullcaps"
+                      },
+                      {
+                        "wd": "sombreros"
+                      },
+                      {
+                        "wd": "sou'westers"
+                      },
+                      {
+                        "wd": "Stetsons"
+                      },
+                      {
+                        "wd": "stocking caps"
+                      },
+                      {
+                        "wd": "stovepipes"
+                      },
+                      {
+                        "wd": "sunbonnets"
+                      },
+                      {
+                        "wd": "tam-o'-shanters"
+                      },
+                      {
+                        "wd": "tams"
+                      },
+                      {
+                        "wd": "ten-gallon hats"
+                      },
+                      {
+                        "wd": "top hats"
+                      },
+                      {
+                        "wd": "toppers"
+                      },
+                      {
+                        "wd": "toques"
+                      },
+                      {
+                        "wd": "tricornes",
+                        "wvrs": [
+                          {
+                            "wvl": "or",
+                            "wva": "tricorns"
+                          }
+                        ]
+                      },
+                      {
+                        "wd": "turbans"
+                      },
+                      {
+                        "wd": "zucchettos"
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "caps"
+                      },
+                      {
+                        "wd": "chapeaus",
+                        "wvrs": [
+                          {
+                            "wvl": "or",
+                            "wva": "chapeaux"
+                          }
+                        ]
+                      },
+                      {
+                        "wd": "hats"
+                      },
+                      {
+                        "wd": "headdresses"
+                      },
+                      {
+                        "wd": "headgears"
+                      },
+                      {
+                        "wd": "headpieces"
+                      },
+                      {
+                        "wd": "lids",
+                        "wsls": [
+                          "slang"
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "wd": "warbonnets"
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "as in cowboy hats, garrison caps"
+      ],
+      "id": 13
     }
   ],
   "comments": [
